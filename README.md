@@ -23,8 +23,55 @@ The platform also solves the data privacy and security challenges by using zero-
   [![Project Demo]()]
 </div>
 
-### Integration One - Bounty Details
+### Integrations - Bounty Details
 
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO ARBITRUM TRACK
+
+We have deployed the smart contract on Arbitrum that is responsible for burning the tokens once the user gets approval from the research institute for participating in the trial, then they are given ERC-20 tokens.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO POLYGON TRACK|
+
+We utilize both Polygon ID and zkEVM. Polygon ID is utilized to store the medical data of users, where hospitals will be the issuers, and patients will be the identity holders. Research institutes will be the verifiers and can shortlist people for medical trials this way.
+
+Polygon zkEVM is used to deploy the smart contract for doing on-chain verification of Polygon ID. When the identity is verified, the users will be sent NFTs with which they can apply to send their data to the research institute. Once the research institute approves, these NFTs will be burnt in exchange for ERC-20 tokens.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO FILECOIN TRACK
+
+We are using Filecoin Saturn as a CDN for our project. We are also utilizing Lighthouse.Storage to store the patient medical data and statistical insights (in CSV format) on it.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO ETHEREUM FOUNDATION TRACK 
+
+We are using Anon Aadhar's SDK during the registration stage as KYC and also to limit accounts to 1 per user. This will help to prevent bot attacks to try to gain incentives.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO WAKU TRACK 
+
+We utilize Waku to facilitate chat between the research institute and the users, to further discuss on the details of the trial.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO ALLIANCE TRACK 
+
+We have been working on this idea for a long time, having received LoIs from 4 hospitals and won grants in ETHWaterloo. We are not just participating in ETHIndia to win prizes, but to actually turn this idea into a real product and a startup.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO PUSH PROTOCOL TRACK
+
+We are using the Push protocol in several ways:
+1. When the research institutes need people for a survey or clinical trial, we broadcast such surveys utilizing Push Protocol.
+2. We have integrated it with Polygon ID for sending notifications for saving the verifiable identity.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO LIGHTHOUSE.STORAGE TRACK 
+
+We are using Lighthouse.Storage to store patient medical data once it has been submitted and approved for participating in the medical trial, and also using it to store statistical insights in a CSV format.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO OKX TRACK
+
+We are deploying a smart contract on the z1 blockchain to transfer the tokens when the research institute approves the user data and sends it tokens by burning the NFT they received as a proof of approval.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO SCROLL TRACK
+
+We have deployed the smart contract on the Scroll blockchain, which allows the research institute to issue an NFT when there are eligible users. Then, if these users are approved (selected for the research trial), then the NFTs will be burned and an ERC-20 token will be issued to them. This token will be listed on exchanges.
+
+### BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO XMTP TRACK 
+
+We are utilizing XMTP as a referral system between users, and also for hospitals to identify users on their graph and recommend this app to them.
 
 ## Important Links
 
@@ -66,6 +113,6 @@ We aim to revolutionize the healthcare ecosystem by rapidly bridging the huge de
 - [Anmol](https://twitter.com/anmol_twt)
 - [Atharva](https://twitter.com/wired_hikari) 
 - [Abhijay](https://twitter.com/CodeInVeins)
-- Antriksh
+- [Antriksh](https://twitter.com/antriksh_batra)
 - Soham
 - [Bharath Hegde](https://twitter.com/BharathHegde12)
