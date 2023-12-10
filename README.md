@@ -30,7 +30,7 @@ The platform also solves the data privacy and security challenges by using zero-
 
 - Live Demo: [here]()
 - Figma Design: [here](https://www.figma.com/file/MiZ7JG0ZV8DhlUCd7H67p4/zkare?type=design&node-id=0%3A1&mode=design&t=ohjq3h5q73fwn3AC-1)
-- Pitch Deck: [here]()
+- Pitch Deck: [here](https://app.pitch.com/app/player/556f9c21-06fb-439b-8b0c-48d7a6a5bb1e/fa27427c-20b8-4f1f-ae7d-dc85effb542c)
 - ZKare Market Analysis: [here](https://drive.google.com/file/d/1sRJnYE_U30mE_iDTJu0N9UFIfko-Uhjl/view?usp=sharing)
 - One Pager: [here](https://www.canva.com/design/DAFhv4i8mjM/9_Dc1MVH1XIuA6a8_f4aZA/edit?utm_content=DAFhv4i8mjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - ZKare WhitePaper: [here](https://docs.google.com/document/d/1I-3QzZYsj6X8JH3WLG03y-GPajpOF-gl5GCqPt-_doA/edit)
